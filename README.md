@@ -1,0 +1,2 @@
+# jkm
+Jun Koda Memorandum
